@@ -2,7 +2,13 @@ import React from "react";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { ArrowRight } from "lucide-react";
+import {
+  ArrowRight,
+  Trophy,
+  Target,
+  Sparkles,
+  CheckCircle2,
+} from "lucide-react";
 import HeroSection from "@/components/hero";
 import {
   Accordion,
